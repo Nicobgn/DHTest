@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Cocinar",
+        "estado": "Completo"
+    },
+    {
+        "titulo": "Estudiar",
+        "estado": "En Progreso"
+    },
+    {
+        "titulo": "Ir al gimnasio",
+        "estado": "Pendiente"
+    } 
+]
